@@ -1,0 +1,14 @@
+<linker>
+  <assembly fullname="Exp 15">
+    <resource name="FSharpSignatureData.Exp 15" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.Exp 15" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.Exp 15" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.Exp 15" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.Exp 15" action="remove"></resource>
+    <resource name="FSharpOptimizationData.Exp 15" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.Exp 15" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.Exp 15" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.Exp 15" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.Exp 15" action="remove"></resource>
+  </assembly>
+</linker>
